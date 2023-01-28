@@ -11,6 +11,7 @@
 2. Vocabrary
 
 Duolingoで、出た単語をNotionの単語帳に書きこむ。
+
 [📒 Notion Swedish Page](https://www.notion.so/Swedish-0eb8c65b6bc24ca6a8a6a32d8d5ae7de)
 
 - Duolingoで出た例文書く
