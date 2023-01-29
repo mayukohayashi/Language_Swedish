@@ -19,7 +19,7 @@ Duolingoで、出た単語をNotionの単語帳に書きこむ。
 - 辞書ひく、単語ググる
 	- 単語数小：[bab.la](https://en.bab.la/dictionary/swedish-english/v%C3%A4der)
 	- 例文が出て便利：[TREX](https://tr-ex.me)
-	- 1番便利か？：Wiktionary[https://en.wiktionary.org/wiki]
+	- 1番便利か？：[Wiktionary](https://en.wiktionary.org/wiki)
 	- TODO： ケチらずまじで辞書を買え（英瑞、日瑞か迷う所…）
 - Google Translateとかでいいので発音聞いて、最低5回は口に出す。
 
